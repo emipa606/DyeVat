@@ -1,0 +1,7 @@
+03/03/20
+	Adding RGB input to define cloth color output
+		using gizmos
+			gizmos launching a dialogue not unlike naming faction dialogue
+	Adding finished apparel recipes to recolor existing clothing to configured RGB color
+	
+	dnSpy decompiled iterator code, use instead of ILspy

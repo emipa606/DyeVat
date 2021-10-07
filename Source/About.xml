@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Dye Vat</name>
+  <author>Sam_</author>
+  <packageId>GT.Sam.DyeVat</packageId>
+  <description>Adds a Dye Vat and the recipes to dye cloth.</description>
+  <url>https://ludeon.com/forums/index.php?topic=11009.0</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+</ModMetaData>
