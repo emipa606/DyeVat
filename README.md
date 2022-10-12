@@ -59,15 +59,6 @@ https://github.com/sam23694/DyeVat/releases]All versions
 
 https://ludeon.com/forums/index.php?topic=5509.0]Forum
 
-# Support Me
-
-https://www.patreon.com/SamModding?fan_landing=true]![Image](https://i.imgur.com/0oRR88M.png)
-
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=A4SJD23YR8YFL&amp;source=url]![Image](https://i.imgur.com/diECfq3.gif)
-
-https://discord.gg/dXByEJN]![Image](https://i.imgur.com/6l6budi.png)
-
-
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
 
@@ -78,5 +69,6 @@ https://discord.gg/dXByEJN]![Image](https://i.imgur.com/6l6budi.png)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 

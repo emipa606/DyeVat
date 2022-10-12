@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Name="BuildingBase_GT" Abstract="True">
+    <category>Building</category>
+    <thingClass>Building</thingClass>
+    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+    <selectable>true</selectable>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <repairEffect>Repair</repairEffect>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <filthLeaving>Filth_RubbleBuilding</filthLeaving>
+  </ThingDef>
+  <ThingDef Name="BenchBase_GT" ParentName="BuildingBase_GT" Abstract="True">
+    <castEdgeShadows>true</castEdgeShadows>
+    <staticSunShadowHeight>0.20</staticSunShadowHeight>
+  </ThingDef>
+  <ThingDef ParentName="BenchBase_GT">
+    <defName>DyeVat</defName>
+    <label>dye vat</label>
+    <thingClass>Building_WorkTable</thingClass>
+    <description>A workstation with a big vat used to mix dye and coloring into textiles.</description>
+    <graphicData>
+      <texPath>Things/Building/Production/DyeVat</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(2,2)</drawSize>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <costStuffCount>75</costStuffCount>
+    <costList>
+      <Steel>50</Steel>
+    </costList>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+    </stuffCategories>
+    <altitudeLayer>Building</altitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <useHitPoints>True</useHitPoints>
+    <statBases>
+      <WorkToBuild>2500</WorkToBuild>
+      <MaxHitPoints>180</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <size>(2,2)</size>
+    <designationCategory>Production</designationCategory>
+    <passability>PassThroughOnly</passability>
+    <pathCost>70</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <surfaceType>Item</surfaceType>
+    <recipes>
+      <li>DV_DyeClothTo_Red</li>
+      <li>DV_DyeClothTo_Pink</li>
+      <li>DV_DyeClothTo_Magenta</li>
+      <li>DV_DyeClothTo_Purple</li>
+      <li>DV_DyeClothTo_Violet</li>
+      <li>DV_DyeClothTo_Blue</li>
+      <li>DV_DyeClothTo_LightBlue</li>
+      <li>DV_DyeClothTo_Cyan</li>
+      <li>DV_DyeClothTo_Turquoise</li>
+      <li>DV_DyeClothTo_Lime</li>
+      <li>DV_DyeClothTo_Green</li>
+      <li>DV_DyeClothTo_Yellow</li>
+      <li>DV_DyeClothTo_Orange</li>
+      <li>DV_DyeClothTo_Maroon</li>
+      <li>DV_DyeClothTo_NavyBlue</li>
+      <li>DV_DyeClothTo_Black</li>
+      <li>DV_DyeClothTo_Grey</li>
+      <li>DV_DyeClothTo_White</li>
+      <li>DV_BleachCloth</li>
+    </recipes>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+      <unpoweredWorkTableWorkSpeedFactor>0.4</unpoweredWorkTableWorkSpeedFactor>
+    </building>
+    <comps>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>ToolCabinet</li>
+        </linkableFacilities>
+      </li>
+      <li Class="CompProperties_Breakdownable" />
+    </comps>
+    <placeWorkers>
+      <li>PlaceWorker_ShowFacilitiesConnections</li>
+    </placeWorkers>
+    <researchPrerequisites>
+      <li>ClothingDye</li>
+    </researchPrerequisites>
+  </ThingDef>
+</Defs>
