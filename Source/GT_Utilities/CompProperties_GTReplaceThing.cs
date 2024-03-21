@@ -4,7 +4,7 @@ namespace GT_Utilities;
 
 public class CompProperties_GTReplaceThing : CompProperties
 {
-    public bool replaceInstantly = true;
+    public readonly bool replaceInstantly = true;
 
     public IntRange replaceIntervalRange = new IntRange(10, 100);
 
