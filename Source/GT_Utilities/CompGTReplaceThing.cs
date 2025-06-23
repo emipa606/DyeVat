@@ -13,27 +13,27 @@ public class CompGTReplaceThing : ThingComp
         base.PostSpawnSetup(respawningAfterLoad);
         if (Props.replaceInstantly)
         {
-            TryReplace();
+            tryReplace();
         }
 
-        ResetCountdown();
+        resetCountdown();
     }
 
     public override void CompTick()
     {
         base.CompTick();
         ticksUntilReplace--;
-        CheckCountDown();
+        checkCountDown();
     }
 
     public override void CompTickRare()
     {
         base.CompTickRare();
         ticksUntilReplace -= 250;
-        CheckCountDown();
+        checkCountDown();
     }
 
-    private void TryReplace()
+    private void tryReplace()
     {
         var thing = ThingMaker.MakeThing(Props.thingToSpawn);
         thing.stackCount = 10;
@@ -43,15 +43,15 @@ public class CompGTReplaceThing : ThingComp
         GenSpawn.Spawn(thing, position, map);
     }
 
-    private void CheckCountDown()
+    private void checkCountDown()
     {
         if (ticksUntilReplace <= 0)
         {
-            TryReplace();
+            tryReplace();
         }
     }
 
-    private void ResetCountdown()
+    private void resetCountdown()
     {
         ticksUntilReplace = Props.replaceIntervalRange.RandomInRange;
     }

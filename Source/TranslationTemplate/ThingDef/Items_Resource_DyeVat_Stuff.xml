@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: black cloth -->
+  <DV_BlackCloth.label>black cloth</DV_BlackCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_BlackCloth.description>Cloth woven from organic fibers.</DV_BlackCloth.description>
+  <!-- EN: blue cloth -->
+  <DV_BlueCloth.label>blue cloth</DV_BlueCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_BlueCloth.description>Cloth woven from organic fibers.</DV_BlueCloth.description>
+  <!-- EN: cyan cloth -->
+  <DV_CyanCloth.label>cyan cloth</DV_CyanCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_CyanCloth.description>Cloth woven from organic fibers.</DV_CyanCloth.description>
+  <!-- EN: green cloth -->
+  <DV_GreenCloth.label>green cloth</DV_GreenCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_GreenCloth.description>Cloth woven from organic fibers.</DV_GreenCloth.description>
+  <!-- EN: grey cloth -->
+  <DV_GreyCloth.label>grey cloth</DV_GreyCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_GreyCloth.description>Cloth woven from organic fibers.</DV_GreyCloth.description>
+  <!-- EN: light blue cloth -->
+  <DV_LightBlueCloth.label>light blue cloth</DV_LightBlueCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_LightBlueCloth.description>Cloth woven from organic fibers.</DV_LightBlueCloth.description>
+  <!-- EN: lime cloth -->
+  <DV_LimeCloth.label>lime cloth</DV_LimeCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_LimeCloth.description>Cloth woven from organic fibers.</DV_LimeCloth.description>
+  <!-- EN: magenta cloth -->
+  <DV_MagentaCloth.label>magenta cloth</DV_MagentaCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_MagentaCloth.description>Cloth woven from organic fibers.</DV_MagentaCloth.description>
+  <!-- EN: maroon cloth -->
+  <DV_MaroonCloth.label>maroon cloth</DV_MaroonCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_MaroonCloth.description>Cloth woven from organic fibers.</DV_MaroonCloth.description>
+  <!-- EN: navy blue cloth -->
+  <DV_NavyBlueCloth.label>navy blue cloth</DV_NavyBlueCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_NavyBlueCloth.description>Cloth woven from organic fibers.</DV_NavyBlueCloth.description>
+  <!-- EN: orange cloth -->
+  <DV_OrangeCloth.label>orange cloth</DV_OrangeCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_OrangeCloth.description>Cloth woven from organic fibers.</DV_OrangeCloth.description>
+  <!-- EN: pink cloth -->
+  <DV_PinkCloth.label>pink cloth</DV_PinkCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_PinkCloth.description>Cloth woven from organic fibers.</DV_PinkCloth.description>
+  <!-- EN: purple cloth -->
+  <DV_PurpleCloth.label>purple cloth</DV_PurpleCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_PurpleCloth.description>Cloth woven from organic fibers.</DV_PurpleCloth.description>
+  <!-- EN: red cloth -->
+  <DV_RedCloth.label>red cloth</DV_RedCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_RedCloth.description>Cloth woven from organic fibers.</DV_RedCloth.description>
+  <!-- EN: turquoise cloth -->
+  <DV_TurquoiseCloth.label>turquoise cloth</DV_TurquoiseCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_TurquoiseCloth.description>Cloth woven from organic fibers.</DV_TurquoiseCloth.description>
+  <!-- EN: bleached cloth -->
+  <DV_UndyedCloth.label>bleached cloth</DV_UndyedCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_UndyedCloth.description>Cloth woven from organic fibers.</DV_UndyedCloth.description>
+  <!-- EN: violet cloth -->
+  <DV_VioletCloth.label>violet cloth</DV_VioletCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_VioletCloth.description>Cloth woven from organic fibers.</DV_VioletCloth.description>
+  <!-- EN: white cloth -->
+  <DV_WhiteCloth.label>white cloth</DV_WhiteCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_WhiteCloth.description>Cloth woven from organic fibers.</DV_WhiteCloth.description>
+  <!-- EN: yellow cloth -->
+  <DV_YellowCloth.label>yellow cloth</DV_YellowCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_YellowCloth.description>Cloth woven from organic fibers.</DV_YellowCloth.description>
+</LanguageData>

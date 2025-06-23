@@ -1,0 +1,6 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="GT_Utilities/GT_Utilities.csproj" />
+</Solution>

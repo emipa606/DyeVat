@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bleach dyed cloth -->
+  <DV_BleachCloth.label>bleach dyed cloth</DV_BleachCloth.label>
+  <!-- EN: Bleach dyed cloth to standard cloth. -->
+  <DV_BleachCloth.description>Bleach dyed cloth to standard cloth.</DV_BleachCloth.description>
+  <!-- EN: Bleaching cloth. -->
+  <DV_BleachCloth.jobString>Bleaching cloth.</DV_BleachCloth.jobString>
+  <!-- EN: dye cloth black -->
+  <DV_DyeClothTo_Black.label>dye cloth black</DV_DyeClothTo_Black.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_Black.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_Black.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_Black.jobString>Dyeing cloth.</DV_DyeClothTo_Black.jobString>
+  <!-- EN: dye cloth blue -->
+  <DV_DyeClothTo_Blue.label>dye cloth blue</DV_DyeClothTo_Blue.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_Blue.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_Blue.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_Blue.jobString>Dyeing cloth.</DV_DyeClothTo_Blue.jobString>
+  <!-- EN: dye cloth cyan -->
+  <DV_DyeClothTo_Cyan.label>dye cloth cyan</DV_DyeClothTo_Cyan.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_Cyan.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_Cyan.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_Cyan.jobString>Dyeing cloth.</DV_DyeClothTo_Cyan.jobString>
+  <!-- EN: dye cloth green -->
+  <DV_DyeClothTo_Green.label>dye cloth green</DV_DyeClothTo_Green.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_Green.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_Green.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_Green.jobString>Dyeing cloth.</DV_DyeClothTo_Green.jobString>
+  <!-- EN: dye cloth grey -->
+  <DV_DyeClothTo_Grey.label>dye cloth grey</DV_DyeClothTo_Grey.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_Grey.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_Grey.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_Grey.jobString>Dyeing cloth.</DV_DyeClothTo_Grey.jobString>
+  <!-- EN: dye cloth light blue -->
+  <DV_DyeClothTo_LightBlue.label>dye cloth light blue</DV_DyeClothTo_LightBlue.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_LightBlue.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_LightBlue.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_LightBlue.jobString>Dyeing cloth.</DV_DyeClothTo_LightBlue.jobString>
+  <!-- EN: dye cloth lime -->
+  <DV_DyeClothTo_Lime.label>dye cloth lime</DV_DyeClothTo_Lime.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_Lime.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_Lime.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_Lime.jobString>Dyeing cloth.</DV_DyeClothTo_Lime.jobString>
+  <!-- EN: dye cloth magenta -->
+  <DV_DyeClothTo_Magenta.label>dye cloth magenta</DV_DyeClothTo_Magenta.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_Magenta.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_Magenta.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_Magenta.jobString>Dyeing cloth.</DV_DyeClothTo_Magenta.jobString>
+  <!-- EN: dye cloth maroon -->
+  <DV_DyeClothTo_Maroon.label>dye cloth maroon</DV_DyeClothTo_Maroon.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_Maroon.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_Maroon.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_Maroon.jobString>Dyeing cloth.</DV_DyeClothTo_Maroon.jobString>
+  <!-- EN: dye cloth navy blue -->
+  <DV_DyeClothTo_NavyBlue.label>dye cloth navy blue</DV_DyeClothTo_NavyBlue.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_NavyBlue.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_NavyBlue.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_NavyBlue.jobString>Dyeing cloth.</DV_DyeClothTo_NavyBlue.jobString>
+  <!-- EN: dye cloth orange -->
+  <DV_DyeClothTo_Orange.label>dye cloth orange</DV_DyeClothTo_Orange.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_Orange.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_Orange.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_Orange.jobString>Dyeing cloth.</DV_DyeClothTo_Orange.jobString>
+  <!-- EN: dye cloth pink -->
+  <DV_DyeClothTo_Pink.label>dye cloth pink</DV_DyeClothTo_Pink.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_Pink.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_Pink.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_Pink.jobString>Dyeing cloth.</DV_DyeClothTo_Pink.jobString>
+  <!-- EN: dye cloth purple -->
+  <DV_DyeClothTo_Purple.label>dye cloth purple</DV_DyeClothTo_Purple.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_Purple.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_Purple.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_Purple.jobString>Dyeing cloth.</DV_DyeClothTo_Purple.jobString>
+  <!-- EN: dye cloth red -->
+  <DV_DyeClothTo_Red.label>dye cloth red</DV_DyeClothTo_Red.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_Red.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_Red.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_Red.jobString>Dyeing cloth.</DV_DyeClothTo_Red.jobString>
+  <!-- EN: dye cloth turquoise -->
+  <DV_DyeClothTo_Turquoise.label>dye cloth turquoise</DV_DyeClothTo_Turquoise.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_Turquoise.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_Turquoise.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_Turquoise.jobString>Dyeing cloth.</DV_DyeClothTo_Turquoise.jobString>
+  <!-- EN: dye cloth violet -->
+  <DV_DyeClothTo_Violet.label>dye cloth violet</DV_DyeClothTo_Violet.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_Violet.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_Violet.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_Violet.jobString>Dyeing cloth.</DV_DyeClothTo_Violet.jobString>
+  <!-- EN: dye cloth white -->
+  <DV_DyeClothTo_White.label>dye cloth white</DV_DyeClothTo_White.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_White.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_White.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_White.jobString>Dyeing cloth.</DV_DyeClothTo_White.jobString>
+  <!-- EN: dye cloth yellow -->
+  <DV_DyeClothTo_Yellow.label>dye cloth yellow</DV_DyeClothTo_Yellow.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_Yellow.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_Yellow.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_Yellow.jobString>Dyeing cloth.</DV_DyeClothTo_Yellow.jobString>
+</LanguageData>

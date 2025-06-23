@@ -6,7 +6,7 @@ public class CompProperties_GTReplaceThing : CompProperties
 {
     public readonly bool replaceInstantly = true;
 
-    public IntRange replaceIntervalRange = new IntRange(10, 100);
+    public IntRange replaceIntervalRange = new(10, 100);
 
     public int spawnCount = 1;
     public ThingDef thingToSpawn;
