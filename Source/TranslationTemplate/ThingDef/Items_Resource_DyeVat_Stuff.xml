@@ -40,6 +40,10 @@
   <DV_NavyBlueCloth.label>navy blue cloth</DV_NavyBlueCloth.label>
   <!-- EN: Cloth woven from organic fibers. -->
   <DV_NavyBlueCloth.description>Cloth woven from organic fibers.</DV_NavyBlueCloth.description>
+  <!-- EN: olive green cloth -->
+  <DV_OliveCloth.label>olive green cloth</DV_OliveCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_OliveCloth.description>Cloth woven from organic fibers.</DV_OliveCloth.description>
   <!-- EN: orange cloth -->
   <DV_OrangeCloth.label>orange cloth</DV_OrangeCloth.label>
   <!-- EN: Cloth woven from organic fibers. -->
