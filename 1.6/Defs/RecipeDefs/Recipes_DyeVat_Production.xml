@@ -137,6 +137,13 @@
     </products>
   </RecipeDef>
   <RecipeDef ParentName="DV_RecipeBase">
+    <defName>DV_DyeClothTo_MustardYellow</defName>
+    <label>dye cloth mustard yellow</label>
+    <products>
+      <DV_MustardYellowCloth>10</DV_MustardYellowCloth>
+    </products>
+  </RecipeDef>
+  <RecipeDef ParentName="DV_RecipeBase">
     <defName>DV_DyeClothTo_Orange</defName>
     <label>dye cloth orange</label>
     <products>

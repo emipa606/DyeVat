@@ -36,6 +36,10 @@
   <DV_MaroonCloth.label>maroon cloth</DV_MaroonCloth.label>
   <!-- EN: Cloth woven from organic fibers. -->
   <DV_MaroonCloth.description>Cloth woven from organic fibers.</DV_MaroonCloth.description>
+  <!-- EN: mustard yellow cloth -->
+  <DV_MustardYellowCloth.label>mustard yellow cloth</DV_MustardYellowCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_MustardYellowCloth.description>Cloth woven from organic fibers.</DV_MustardYellowCloth.description>
   <!-- EN: navy blue cloth -->
   <DV_NavyBlueCloth.label>navy blue cloth</DV_NavyBlueCloth.label>
   <!-- EN: Cloth woven from organic fibers. -->

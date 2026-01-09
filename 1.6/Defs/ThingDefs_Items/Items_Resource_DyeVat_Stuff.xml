@@ -203,6 +203,16 @@
     </stuffProps>
   </ThingDef>
   <ThingDef ParentName="DyedCloth">
+    <defName>DV_MustardYellowCloth</defName>
+    <label>mustard yellow cloth</label>
+    <graphicData>
+      <color>(225,173,1)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(225,173,1)</color>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="DyedCloth">
     <defName>DV_OrangeCloth</defName>
     <label>orange cloth</label>
     <graphicData>

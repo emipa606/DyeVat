@@ -60,6 +60,12 @@
   <DV_DyeClothTo_Maroon.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_Maroon.description>
   <!-- EN: Dyeing cloth. -->
   <DV_DyeClothTo_Maroon.jobString>Dyeing cloth.</DV_DyeClothTo_Maroon.jobString>
+  <!-- EN: dye cloth mustard yellow -->
+  <DV_DyeClothTo_MustardYellow.label>dye cloth mustard yellow</DV_DyeClothTo_MustardYellow.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_MustardYellow.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_MustardYellow.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_MustardYellow.jobString>Dyeing cloth.</DV_DyeClothTo_MustardYellow.jobString>
   <!-- EN: dye cloth navy blue -->
   <DV_DyeClothTo_NavyBlue.label>dye cloth navy blue</DV_DyeClothTo_NavyBlue.label>
   <!-- EN: Use various powders and liquids to dye cloth. -->
