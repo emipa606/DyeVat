@@ -85,4 +85,12 @@
   <DV_DyeClothTo_Yellow.label>染布黄</DV_DyeClothTo_Yellow.label>
   <DV_DyeClothTo_Yellow.description>使用各种粉末和液体来染布。</DV_DyeClothTo_Yellow.description>
   <DV_DyeClothTo_Yellow.jobString>染布。</DV_DyeClothTo_Yellow.jobString>
+  <!-- EN: dye cloth olive green -->
+  <DV_DyeClothTo_Olive.label>染布 橄榄绿</DV_DyeClothTo_Olive.label>
+  <DV_DyeClothTo_Olive.description>使用各种粉末和液体来染布。</DV_DyeClothTo_Olive.description>
+  <DV_DyeClothTo_Olive.jobString>染布。</DV_DyeClothTo_Olive.jobString>
+  <!-- EN: dye cloth khaki sand -->
+  <DV_DyeClothTo_Sand.label>染色布 卡其色沙</DV_DyeClothTo_Sand.label>
+  <DV_DyeClothTo_Sand.description>使用各种粉末和液体来染布。</DV_DyeClothTo_Sand.description>
+  <DV_DyeClothTo_Sand.jobString>染布。</DV_DyeClothTo_Sand.jobString>
 </LanguageData>

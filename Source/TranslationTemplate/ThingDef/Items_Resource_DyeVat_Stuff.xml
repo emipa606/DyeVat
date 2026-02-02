@@ -64,6 +64,10 @@
   <DV_RedCloth.label>red cloth</DV_RedCloth.label>
   <!-- EN: Cloth woven from organic fibers. -->
   <DV_RedCloth.description>Cloth woven from organic fibers.</DV_RedCloth.description>
+  <!-- EN: khaki sand cloth -->
+  <DV_SandCloth.label>khaki sand cloth</DV_SandCloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <DV_SandCloth.description>Cloth woven from organic fibers.</DV_SandCloth.description>
   <!-- EN: turquoise cloth -->
   <DV_TurquoiseCloth.label>turquoise cloth</DV_TurquoiseCloth.label>
   <!-- EN: Cloth woven from organic fibers. -->

@@ -65,4 +65,7 @@
   <!-- EN: yellow cloth -->
   <DV_YellowCloth.label>黄布</DV_YellowCloth.label>
   <DV_YellowCloth.description>用有机纤维织成的布。</DV_YellowCloth.description>
+  <!-- EN: khaki sand cloth -->
+  <DV_SandCloth.label>卡其色沙布</DV_SandCloth.label>
+  <DV_SandCloth.description>用有机纤维织成的布。</DV_SandCloth.description>
 </LanguageData>

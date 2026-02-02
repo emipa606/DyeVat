@@ -72,6 +72,12 @@
   <DV_DyeClothTo_NavyBlue.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_NavyBlue.description>
   <!-- EN: Dyeing cloth. -->
   <DV_DyeClothTo_NavyBlue.jobString>Dyeing cloth.</DV_DyeClothTo_NavyBlue.jobString>
+  <!-- EN: dye cloth olive green -->
+  <DV_DyeClothTo_Olive.label>dye cloth olive green</DV_DyeClothTo_Olive.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_Olive.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_Olive.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_Olive.jobString>Dyeing cloth.</DV_DyeClothTo_Olive.jobString>
   <!-- EN: dye cloth orange -->
   <DV_DyeClothTo_Orange.label>dye cloth orange</DV_DyeClothTo_Orange.label>
   <!-- EN: Use various powders and liquids to dye cloth. -->
@@ -96,6 +102,12 @@
   <DV_DyeClothTo_Red.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_Red.description>
   <!-- EN: Dyeing cloth. -->
   <DV_DyeClothTo_Red.jobString>Dyeing cloth.</DV_DyeClothTo_Red.jobString>
+  <!-- EN: dye cloth khaki sand -->
+  <DV_DyeClothTo_Sand.label>dye cloth khaki sand</DV_DyeClothTo_Sand.label>
+  <!-- EN: Use various powders and liquids to dye cloth. -->
+  <DV_DyeClothTo_Sand.description>Use various powders and liquids to dye cloth.</DV_DyeClothTo_Sand.description>
+  <!-- EN: Dyeing cloth. -->
+  <DV_DyeClothTo_Sand.jobString>Dyeing cloth.</DV_DyeClothTo_Sand.jobString>
   <!-- EN: dye cloth turquoise -->
   <DV_DyeClothTo_Turquoise.label>dye cloth turquoise</DV_DyeClothTo_Turquoise.label>
   <!-- EN: Use various powders and liquids to dye cloth. -->

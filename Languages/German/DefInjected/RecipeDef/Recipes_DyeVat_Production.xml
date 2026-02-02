@@ -85,4 +85,12 @@
   <DV_DyeClothTo_Yellow.label>Stoff gelb färben</DV_DyeClothTo_Yellow.label>
   <DV_DyeClothTo_Yellow.description>Verwenden Sie verschiedene Pulver und Flüssigkeiten zu färben Stoff.</DV_DyeClothTo_Yellow.description>
   <DV_DyeClothTo_Yellow.jobString>Stoff färben.</DV_DyeClothTo_Yellow.jobString>
+  <!-- EN: dye cloth olive green -->
+  <DV_DyeClothTo_Olive.label>Färbe Stoff olivgrün</DV_DyeClothTo_Olive.label>
+  <DV_DyeClothTo_Olive.description>Verwenden Sie verschiedene Pulver und Flüssigkeiten zu färben Stoff.</DV_DyeClothTo_Olive.description>
+  <DV_DyeClothTo_Olive.jobString>Stoff färben.</DV_DyeClothTo_Olive.jobString>
+  <!-- EN: dye cloth khaki sand -->
+  <DV_DyeClothTo_Sand.label>Stoff färben khaki Sand</DV_DyeClothTo_Sand.label>
+  <DV_DyeClothTo_Sand.description>Verwenden Sie verschiedene Pulver und Flüssigkeiten zu färben Stoff.</DV_DyeClothTo_Sand.description>
+  <DV_DyeClothTo_Sand.jobString>Stoff färben.</DV_DyeClothTo_Sand.jobString>
 </LanguageData>

@@ -85,4 +85,12 @@
   <DV_DyeClothTo_Yellow.label>teindre le tissu en jaune</DV_DyeClothTo_Yellow.label>
   <DV_DyeClothTo_Yellow.description>Utilisez diverses poudres et liquides pour teindre des tissus.</DV_DyeClothTo_Yellow.description>
   <DV_DyeClothTo_Yellow.jobString>Teinture de tissu.</DV_DyeClothTo_Yellow.jobString>
+  <!-- EN: dye cloth olive green -->
+  <DV_DyeClothTo_Olive.label>teindre le tissu en vert olive</DV_DyeClothTo_Olive.label>
+  <DV_DyeClothTo_Olive.description>Utilisez diverses poudres et liquides pour teindre des tissus.</DV_DyeClothTo_Olive.description>
+  <DV_DyeClothTo_Olive.jobString>Teinture de tissu.</DV_DyeClothTo_Olive.jobString>
+  <!-- EN: dye cloth khaki sand -->
+  <DV_DyeClothTo_Sand.label>teinture tissu kaki sable</DV_DyeClothTo_Sand.label>
+  <DV_DyeClothTo_Sand.description>Utilisez diverses poudres et liquides pour teindre des tissus.</DV_DyeClothTo_Sand.description>
+  <DV_DyeClothTo_Sand.jobString>Teinture de tissu.</DV_DyeClothTo_Sand.jobString>
 </LanguageData>

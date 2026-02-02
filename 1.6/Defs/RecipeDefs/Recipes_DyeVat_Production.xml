@@ -123,6 +123,20 @@
     </products>
   </RecipeDef>
   <RecipeDef ParentName="DV_RecipeBase">
+    <defName>DV_DyeClothTo_Olive</defName>
+    <label>dye cloth olive green</label>
+    <products>
+      <DV_OliveCloth>10</DV_OliveCloth>
+    </products>
+  </RecipeDef>
+  <RecipeDef ParentName="DV_RecipeBase">
+    <defName>DV_DyeClothTo_Sand</defName>
+    <label>dye cloth khaki sand</label>
+    <products>
+      <DV_SandCloth>10</DV_SandCloth>
+    </products>
+  </RecipeDef>
+  <RecipeDef ParentName="DV_RecipeBase">
     <defName>DV_DyeClothTo_Green</defName>
     <label>dye cloth green</label>
     <products>

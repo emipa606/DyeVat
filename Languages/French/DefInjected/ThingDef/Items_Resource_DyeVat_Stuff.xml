@@ -65,4 +65,7 @@
   <!-- EN: yellow cloth -->
   <DV_YellowCloth.label>tissu jaune</DV_YellowCloth.label>
   <DV_YellowCloth.description>Tissu tissé à partir de fibres organiques.</DV_YellowCloth.description>
+  <!-- EN: khaki sand cloth -->
+  <DV_SandCloth.label>tissu de sable kaki</DV_SandCloth.label>
+  <DV_SandCloth.description>Tissu tissé à partir de fibres organiques.</DV_SandCloth.description>
 </LanguageData>

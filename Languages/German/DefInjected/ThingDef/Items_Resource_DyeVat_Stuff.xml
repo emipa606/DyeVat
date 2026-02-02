@@ -65,4 +65,7 @@
   <!-- EN: yellow cloth -->
   <DV_YellowCloth.label>gelber Stoff</DV_YellowCloth.label>
   <DV_YellowCloth.description>Stoff aus organischen Fasern gewebt.</DV_YellowCloth.description>
+  <!-- EN: khaki sand cloth -->
+  <DV_SandCloth.label>khaki Sand Tuch</DV_SandCloth.label>
+  <DV_SandCloth.description>Stoff aus organischen Fasern gewebt.</DV_SandCloth.description>
 </LanguageData>

@@ -183,6 +183,16 @@
     </stuffProps>
   </ThingDef>
   <ThingDef ParentName="DyedCloth">
+    <defName>DV_SandCloth</defName>
+    <label>khaki sand cloth</label>
+    <graphicData>
+      <color>(194,178,128)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(194,178,128)</color>
+    </stuffProps>
+  </ThingDef>
+  <ThingDef ParentName="DyedCloth">
     <defName>DV_GreenCloth</defName>
     <label>green cloth</label>
     <graphicData>

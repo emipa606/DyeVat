@@ -1,5 +1,8 @@
 # Changelog for DyeVat
 
+1.6.3 - Added Khaki Sand color
+
+
 1.6.2 - Added mustard yellow color
 
 
