@@ -72,4 +72,4 @@ If there is a colour that is not listed that you want added then post a comment 
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/DyeVat?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2622089950) | tags: color, bleach
+[![Image](https://img.shields.io/github/v/release/emipa606/DyeVat?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2622089950) | bleach, color
